@@ -1,0 +1,6 @@
+@AuditLog.Core_HostAddress = http://localhost:5034
+
+GET {{AuditLog.Core_HostAddress}}/employees/
+Accept: application/json
+
+###
